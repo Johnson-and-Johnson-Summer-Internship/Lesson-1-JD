@@ -1,0 +1,7 @@
+
+public class Thing {
+public Thing(String name) {
+      //This constructor has on parameter, name
+
+
+}

@@ -1,0 +1,35 @@
+
+public class J {
+
+	public static void main(String args[]) {
+
+		int x = 10;
+		int y = 27;
+		double x = 10;
+		double y = 27;
+		int z = x+y;
+		int zz = x*35865;
+		int xy = x-y;
+		double ba = x/y;
+		System.out.println("h4t984h449843ht9843t98wfuewiu3yt84ht48yh48rhr83rht4t");
+		System.out.println("jdsngouregnrelkhvnrgiub4gfibrkugbwq3iugbh2ui43hgiu34");
+		System.out.println("wa");
+		System.out.println("we");
+		System.out.println("wi");
+		System.out.println("wo");
+		System.out.println("wu");
+		System.out.println(x);
+		System.out.println(y);
+		System.out.println(z);
+		System.out.println(zz);
+		System.out.println("15*wwdsssfdf");
+		System.out.println(xy);
+		System.out.println(ba);
+		
+		
+	
+		
+				
+	}
+	
+}

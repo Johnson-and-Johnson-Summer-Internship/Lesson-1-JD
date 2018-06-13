@@ -1,0 +1,12 @@
+
+public class J {
+
+	public static void main(String args[]) {
+
+		System.out.print("I want to learn");
+		System.out.print(" James");
+				
+	
+	}
+	
+}

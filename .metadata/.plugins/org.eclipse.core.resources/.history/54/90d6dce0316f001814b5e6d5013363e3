@@ -1,0 +1,8 @@
+
+public class Thing {
+public Thing(String name) {
+      //This constructor has on parameter, name
+      System.out.println("Name chosen is :"+name );
+}
+}
+    
